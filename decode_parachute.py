@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # red = 1, white = 0
-# source: https://youtu.be/GUqsH5y1j1M?t=17
+# source: https://www.youtube.com/watch?v=ZbTJ_YCTDLI&ab_channel=NASAJetPropulsionLaboratory
 chute = [
     "RRRRRRRRRRRRRRRRRRRRwwwwwwwRwwwwwwwwwwwRwwwwwRwwRwwwwwwwwRwRwwwRRRRRRRRRRRRRRRRR",
     "wwwRRRRRRRRRRRRRRRRRwwwwwwRRwRwwwwwwRwwRwwwwwwwRRRwwwwwwRwwwwwwwwRwRwwwwwwwRRwwR",
