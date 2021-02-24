@@ -1,3 +1,5 @@
+![](DARE_MIGHTY_THINGS.png)
+
 The parachute the Perseverance rover descended to Mars on, February 18, 2021, included a message that was decoded by several internet slueths after video from the landing was shared by JPL at a Feb 22, 2021 press conference.  This code demonstrates how that encoding works.
 
 ```
