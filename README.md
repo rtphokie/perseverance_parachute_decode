@@ -17,3 +17,18 @@ The parachute the Perseverance rover descended to Mars on, February 18, 2021, in
                           14                              23    
   34      11      58       N      118     10      31       W    
 ```
+
+To create your own:
+```
+design a JPL parachute
+
+positional arguments:
+  message       message to encode (4 words, each 8 or fewer charactrs)
+
+optional arguments:
+  -h, --help    show this help message and exit
+  -white WHITE  hex color for white panels (default #FFF)
+  -red RED      hex color for red panels (default #F00)
+```
+Example:
+create_parachute.py DARE MIGHTY THINGS 34 11 58 N 118 10 31 W
